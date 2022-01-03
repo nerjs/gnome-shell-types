@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+      "lib": ["es2017"],
+      "noImplicitAny": true,
+      "removeComments": true,
+      "sourceMap": false,
+      "declaration": true
+  }
+}
